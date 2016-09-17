@@ -1,0 +1,18 @@
+{
+    "name": "log0/php-client",
+    "description": "Log PHP Exception",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Savan Koradia",
+            "email": "koradia.savan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Log0\\Exceptioner\\": "src/"
+        }
+    }
+}
