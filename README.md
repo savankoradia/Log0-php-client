@@ -1,5 +1,5 @@
-# Log0-php-client
-Log PHP Exception
+#About
+Client library to catch error and exception.
 
 #How to install?
 ```shell
