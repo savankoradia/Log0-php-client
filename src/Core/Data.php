@@ -1,6 +1,6 @@
 <?php
 
-namespace Log0\Exceptioner;
+namespace Log0\Exceptioner\Core;
 
 class Data {
 
